@@ -1,1 +1,1 @@
-# making-a-site-copy
+![Markdown Logo] (img/banner.png)
